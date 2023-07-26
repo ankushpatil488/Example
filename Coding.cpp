@@ -1,4 +1,3 @@
-//This is a c program
 #include<bits/stdc++.h>
 using namespace std;
 int funnCr(int n,int r){
